@@ -9,4 +9,4 @@ To understand the work, I suggest you read either *MN_handle.ipynp* or *PSOsinc.
 
 Finally, I can jump into *PSOMatchingNetwork.ipynp* file to see how I merged these file above.
 
-...Update is coming soon because the result is still unralizable anf the algorithm is simple, lacking of refinements
+...Update is coming soon because the result is still unralizable, simple, and lacking of refinements
